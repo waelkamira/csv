@@ -1,4 +1,4 @@
-﻿id,songName,songImage,songLink,created_at,updated_at
+id,songName,songImage,songLink,created_at,updated_at
 1, أغنية بابا بابا,https://i.imgur.com/qD1MxpK.jpeg,https://www.dropbox.com/scl/fi/si6acasas87349is7p56i/marah-tv-_.mp4?rlkey=haf1lcstnt29jd1lup5saq347&st=wujxzpq5&raw=1,2024-08-23 17:06:22.533937+00,2024-08-23 17:06:22.533937+00
 2,في منزل أنثى السنجاب - دق دق الباب المهن 1,https://i.imgur.com/jn2TYVN.jpeg,https://www.dropbox.com/scl/fi/1e81itepa97fwkxsrqmuz/.mp4?rlkey=kogwimy25rqwqfntoculi5dh9&st=vll6a7x8&raw=1,2024-08-23 11:47:14.796452+00,2024-08-23 11:47:14.796452+00
 3,هالصيصان شو حلوين,https://i.imgur.com/z9OlXSR.png,https://dl.dropboxusercontent.com/scl/fi/6f6ceyffywripb87ro1eo/2018.mp4?rlkey=r05yla6ir4y0v5saw36hex5pl&st=i4j7a3el,2024-08-22 17:51:59.616843+00,2024-08-22 17:51:59.616843+00
@@ -82,7 +82,6 @@
 82,"عصومي ضرب وليد  ""بدون إيقاع"" - عصومي ووليد  طيور الجنة",https://i.ytimg.com/vi/8KUDrMY7H6c/maxresdefault.jpg,https://www.youtube.com/watch?v=8KUDrMY7H6c,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 83,عسل (بدون إيقاع) - جنى مقداد  طيور الجنة,https://i.ytimg.com/vi/O1cumJPrtdw/maxresdefault.jpg,https://www.youtube.com/watch?v=O1cumJPrtdw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 84,عزوز (بدون إيقاع) - طيور بيبي,https://i.ytimg.com/vi/qGWgy3zDpwQ/maxresdefault.jpg,https://www.youtube.com/watch?v=qGWgy3zDpwQ,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-85,عزوز,https://i.ytimg.com/vi/17hy7lBhDmE/maxresdefault.jpg,https://www.youtube.com/watch?v=17hy7lBhDmE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 86,عالروضة بنروح (بدون إيقاع) - جنى مقداد  طيور بيبي,https://i.ytimg.com/vi/HIRRY4LwG14/maxresdefault.jpg,https://www.youtube.com/watch?v=HIRRY4LwG14,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 87,طلوا الحبايب (بدون إيقاع) - جنى مقداد,https://i.ytimg.com/vi/rT-FAkI2C8g/maxresdefault.jpg,https://www.youtube.com/watch?v=rT-FAkI2C8g,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 88,صيّاد السمك - طيور بيبي,https://i.ytimg.com/vi/5hf2uLQF61c/maxresdefault.jpg,https://www.youtube.com/watch?v=5hf2uLQF61c,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -92,7 +91,6 @@
 92,شوفوا عصومي (بدون إيقاع) - المعتصم بالله مقداد,https://i.ytimg.com/vi/ait2t8xw2Lg/maxresdefault.jpg,https://www.youtube.com/watch?v=ait2t8xw2Lg,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 93,شموسة,https://i.ytimg.com/vi/89iqs3CKFbs/maxresdefault.jpg,https://www.youtube.com/watch?v=89iqs3CKFbs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 94,سيارتنا الأمورة (بدون إيقاع) - المقاديد  طيور الجنة,https://i.ytimg.com/vi/M8xZ4pZIHoE/maxresdefault.jpg,https://www.youtube.com/watch?v=M8xZ4pZIHoE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-95,سوسة كف عروسة,https://i.ytimg.com/vi/_6X2Nq-9Uo8/maxresdefault.jpg,https://www.youtube.com/watch?v=_6X2Nq-9Uo8,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 96,سنجوبة,https://i.ytimg.com/vi/5R-7_4mETC0/maxresdefault.jpg,https://www.youtube.com/watch?v=5R-7_4mETC0,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 97,سمِّ الله,https://i.ytimg.com/vi/TXsLHiNEVAc/maxresdefault.jpg,https://www.youtube.com/watch?v=TXsLHiNEVAc,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 98,رح خبر هالضيعة (بدون إيقاع) - مؤمن الجناني,https://i.ytimg.com/vi/xXwDIX6zqhE/maxresdefault.jpg,https://www.youtube.com/watch?v=xXwDIX6zqhE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -102,10 +100,8 @@
 102,ذهب الليل طلع الفجر والعصفور صو صو شاف القطة قالها بسبس قالتلو نو نو - هالصيصان شو حلوين - الفواكه,https://i.ytimg.com/vi/t05FW-PKoOY/maxresdefault.jpg,https://www.youtube.com/watch?v=t05FW-PKoOY,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 103,ذهب الليل طلع الفجر والعصفور صو صو - اغاني اطفال,https://i.ytimg.com/vi/ft1lQeYJqUM/maxresdefault.jpg,https://www.youtube.com/watch?v=ft1lQeYJqUM,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 104,ذهب الليل طلع الفجر الجديدة,https://i.ytimg.com/vi/I8DMX0LvlRw/maxresdefault.jpg,https://www.youtube.com/watch?v=I8DMX0LvlRw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-105,ذهب الليل طلع الفجر  كتاكيت بيبي 2018,https://i.ytimg.com/vi/fRSqk4nlZds/maxresdefault.jpg,https://www.youtube.com/watch?v=fRSqk4nlZds,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 106,ذهب الليل طلع الفجر - كليب الأطفال  Luna TV - قناة لونا,https://i.ytimg.com/vi/uSBOPAFw2yk/maxresdefault.jpg,https://www.youtube.com/watch?v=uSBOPAFw2yk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 107,ذهب الليل طلع الفجر - انشودة ذهب الليل طلع الفجر,https://i.ytimg.com/vi/V_t0vktuCDk/maxresdefault.jpg,https://www.youtube.com/watch?v=V_t0vktuCDk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-108,ذهب الليل طلع الفجر,https://i.ytimg.com/vi/AMfqJ9wmRxc/maxresdefault.jpg,https://www.youtube.com/watch?v=AMfqJ9wmRxc,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 109,ديمة الأولى (بدون إيقاع) - ديمة بشار  طيور الجنة,https://i.ytimg.com/vi/XyjL5zFpMdw/maxresdefault.jpg,https://www.youtube.com/watch?v=XyjL5zFpMdw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 110,ديكي,https://i.ytimg.com/vi/SZzUA9FNEZU/maxresdefault.jpg,https://www.youtube.com/watch?v=SZzUA9FNEZU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 111,دنيا روزي  حلقات كاملة  براعم  أسطورة الباندا الحمراء  Stories for children in Arabic,https://i.ytimg.com/vi/PFSFbehli60/maxresdefault.jpg,https://www.youtube.com/watch?v=PFSFbehli60,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -115,14 +111,11 @@
 115,دق الباب الحروف 3  - أغاني أطفال,https://i.ytimg.com/vi/4EKfbB3Q794/maxresdefault.jpg,https://www.youtube.com/watch?v=4EKfbB3Q794,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 116,دق الباب الحروف 2 - أغاني أطفال,https://i.ytimg.com/vi/sEq-K2s9IZU/maxresdefault.jpg,https://www.youtube.com/watch?v=sEq-K2s9IZU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 117,دق الباب الحروف 1 - أغاني أطفال,https://i.ytimg.com/vi/7iRTXkvDr5s/maxresdefault.jpg,https://www.youtube.com/watch?v=7iRTXkvDr5s,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-118,دجاجتي الكبيرة,https://i.ytimg.com/vi/GAqTAV_97Mw/maxresdefault.jpg,https://www.youtube.com/watch?v=GAqTAV_97Mw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-119,دبدوبة التخينة  كتاكيت بيبي,https://i.ytimg.com/vi/hFxnZSLi07g/maxresdefault.jpg,https://www.youtube.com/watch?v=hFxnZSLi07g,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 120,"دادا ""بدون إيقاع"" - جنى مقداد  قناة بيبي الفضائية",https://i.ytimg.com/vi/doQrmYT6z5o/maxresdefault.jpg,https://www.youtube.com/watch?v=doQrmYT6z5o,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 121,دا بيتنا كلنا  مسؤلية الأطفال  في التنظيف,https://i.ytimg.com/vi/0uWuagPKObo/maxresdefault.jpg,https://www.youtube.com/watch?v=0uWuagPKObo,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 122,حميدو العاق (بدون إيقاع) - طيور بيبي,https://i.ytimg.com/vi/wc_S-mlE9qE/maxresdefault.jpg,https://www.youtube.com/watch?v=wc_S-mlE9qE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 123,حميدو العاق - طيور بيبي,https://i.ytimg.com/vi/MdCRzS-1pX0/maxresdefault.jpg,https://www.youtube.com/watch?v=MdCRzS-1pX0,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 124,حميدو العاق,https://i.ytimg.com/vi/TMK6vZSn1no/maxresdefault.jpg,https://www.youtube.com/watch?v=TMK6vZSn1no,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-125,حميدو,https://i.ytimg.com/vi/rHqdEe5w2IE/maxresdefault.jpg,https://www.youtube.com/watch?v=rHqdEe5w2IE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 126,حلوين ويا محلاهم (بدون إيقاع) - جنى مقداد,https://i.ytimg.com/vi/X-91l-u5o68/maxresdefault.jpg,https://www.youtube.com/watch?v=X-91l-u5o68,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 127,حلم كبير  أغنية المهن للاطفال,https://i.ytimg.com/vi/Zx6Nf_I3jyU/maxresdefault.jpg,https://www.youtube.com/watch?v=Zx6Nf_I3jyU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 128,حلا الترك و مشاعل بنيتي الحبوبة  Hala Alturk & Mashael - Bnayty ElHabooba,https://i.ytimg.com/vi/qn3ITODjLiw/maxresdefault.jpg,https://www.youtube.com/watch?v=qn3ITODjLiw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -185,7 +178,6 @@
 185,ألف باء تاء - تعليم الأحرف العربية للصغار  Learning arabic letters for kids,https://i.ytimg.com/vi/o5R0y6XK-mg/maxresdefault.jpg,https://www.youtube.com/watch?v=o5R0y6XK-mg,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 186,ألعابك - زين ويارا  طيور بيبي,https://i.ytimg.com/vi/66M6XEJzuFw/maxresdefault.jpg,https://www.youtube.com/watch?v=66M6XEJzuFw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 187,أغنية يلا هاتو الصينية,https://i.ytimg.com/vi/43Aq-4ktx0o/maxresdefault.jpg,https://www.youtube.com/watch?v=43Aq-4ktx0o,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-188,أغنية ياخواتي بحبّها  Luna TV - قناة لونا,https://i.ytimg.com/vi/jvAWBvpsIJ0/maxresdefault.jpg,https://www.youtube.com/watch?v=jvAWBvpsIJ0,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 189,أغنية يا غنماتي ماء ماء,https://i.ytimg.com/vi/E0H8fz7v9AE/maxresdefault.jpg,https://www.youtube.com/watch?v=E0H8fz7v9AE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 190,أغنية يا غنماتي  - أغاني أطفال   قناة طم طم,https://i.ytimg.com/vi/WpGjbWh8xHU/maxresdefault.jpg,https://www.youtube.com/watch?v=WpGjbWh8xHU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 191,أغنية هم هم هم فواكه  اغاني اطفال طم طم,https://i.ytimg.com/vi/PdU5oklegCs/maxresdefault.jpg,https://www.youtube.com/watch?v=PdU5oklegCs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -201,7 +193,6 @@
 201,أغنية نطيطة,https://i.ytimg.com/vi/kZhaNhK170A/maxresdefault.jpg,https://www.youtube.com/watch?v=kZhaNhK170A,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 202,أغنية ماما طعمينا,https://i.ytimg.com/vi/xF_NNFrILq4/maxresdefault.jpg,https://www.youtube.com/watch?v=xF_NNFrILq4,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 203,أغنية ماما زمانها جاية + أجمل اغاني الاطفال,https://i.ytimg.com/vi/AwlQRSZEy9U/maxresdefault.jpg,https://www.youtube.com/watch?v=AwlQRSZEy9U,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-204,أغنية ماما زمانها جاية  Luna TV - قناة لونا,https://i.ytimg.com/vi/asuBOauTUfk/maxresdefault.jpg,https://www.youtube.com/watch?v=asuBOauTUfk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 205,أغنية ليلة العيد للأطفال٢  فرحة العيد,https://i.ytimg.com/vi/c326QOLpBzE/maxresdefault.jpg,https://www.youtube.com/watch?v=c326QOLpBzE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 206,أغنية ليلة العيد للأطفال  فرحة العيد,https://i.ytimg.com/vi/jxbMGYOabMk/maxresdefault.jpg,https://www.youtube.com/watch?v=jxbMGYOabMk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 207,أغنية كلوبي,https://i.ytimg.com/vi/883Az0zNbnU/maxresdefault.jpg,https://www.youtube.com/watch?v=883Az0zNbnU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -240,12 +231,10 @@
 240,أغنية أينك يا ذؤوب  بدون موسيقى,https://i.ytimg.com/vi/QW81O1Dg_R4/maxresdefault.jpg,https://www.youtube.com/watch?v=QW81O1Dg_R4,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 241,أغنية أينك يا ذؤوب -  قناة طم طم للأطفال,https://i.ytimg.com/vi/pWNUnXQ4g8g/maxresdefault.jpg,https://www.youtube.com/watch?v=pWNUnXQ4g8g,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 242,أغنية أنا بقرة -  أغاني أطفال   قناة طم طم,https://i.ytimg.com/vi/SYNv4Wg0NdA/maxresdefault.jpg,https://www.youtube.com/watch?v=SYNv4Wg0NdA,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-243,أغنية أكلك منين يا بطة  Luna TV - قناة لونا,https://i.ytimg.com/vi/LrfgMHFligo/maxresdefault.jpg,https://www.youtube.com/watch?v=LrfgMHFligo,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 244,أغنية أصوات الحيوانات -  أغنية صوت الديك    قناة طم طم,https://i.ytimg.com/vi/5mLei28XKtE/maxresdefault.jpg,https://www.youtube.com/watch?v=5mLei28XKtE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 245,أغنية أسناني أي,https://i.ytimg.com/vi/-v0qlEYAd5c/maxresdefault.jpg,https://www.youtube.com/watch?v=-v0qlEYAd5c,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 246,أغنية أسرع أسرع خطر,https://i.ytimg.com/vi/kNbkfPDI22c/maxresdefault.jpg,https://www.youtube.com/watch?v=kNbkfPDI22c,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 247,أغنية انا دودي بعدولي,https://i.ytimg.com/vi/sNC9U3L1KOs/maxresdefault.jpg,https://www.youtube.com/watch?v=sNC9U3L1KOs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-248,أغنية انا احب ماما وماما تحبني  Luna TV - قناة لونا,https://i.ytimg.com/vi/_lOIX75q1qI/maxresdefault.jpg,https://www.youtube.com/watch?v=_lOIX75q1qI,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 249,أغنية القطة المشمشية,https://i.ytimg.com/vi/zN2jH1mD03g/sddefault.jpg,https://www.youtube.com/watch?v=zN2jH1mD03g,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 250,أغنية الفواكه والخضروات الجديدة,https://i.ytimg.com/vi/OGBCufMR5bQ/maxresdefault.jpg,https://www.youtube.com/watch?v=OGBCufMR5bQ,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 251,أغنية الصيصان ضايعين,https://i.ytimg.com/vi/aXQYQ-oZNWI/maxresdefault.jpg,https://www.youtube.com/watch?v=aXQYQ-oZNWI,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -256,7 +245,6 @@
 256,أغنية الثعلب الكذاب,https://i.ytimg.com/vi/38fwZUcsjpM/maxresdefault.jpg,https://www.youtube.com/watch?v=38fwZUcsjpM,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 257,أغنية البيبي عم يبكي,https://i.ytimg.com/vi/BSX3u2E0Fvw/maxresdefault.jpg,https://www.youtube.com/watch?v=BSX3u2E0Fvw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 258,أغنية البيبي الزين,https://i.ytimg.com/vi/TDx45Rn_GqU/maxresdefault.jpg,https://www.youtube.com/watch?v=TDx45Rn_GqU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-259,أغنية البنات البنات  Luna TV - قناة لونا,https://i.ytimg.com/vi/zAKZOCS4sWk/maxresdefault.jpg,https://www.youtube.com/watch?v=zAKZOCS4sWk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 260,أغنية البقرة هم هم هم  بدون موسيقى,https://i.ytimg.com/vi/MLpek4tsfTI/maxresdefault.jpg,https://www.youtube.com/watch?v=MLpek4tsfTI,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 261,أغنية البقرة هم هم هم  بتقويني ما فيني,https://i.ytimg.com/vi/F3TdjmdbVVw/maxresdefault.jpg,https://www.youtube.com/watch?v=F3TdjmdbVVw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 262,أغنية البطات الخمسة,https://i.ytimg.com/vi/a6UkPB1GByk/maxresdefault.jpg,https://www.youtube.com/watch?v=a6UkPB1GByk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -286,29 +274,24 @@
 286,انا الفرخة واحنة الكتاكيت + اجمل اغاني الاطفال,https://i.ytimg.com/vi/zEeDmaxegDA/maxresdefault.jpg,https://www.youtube.com/watch?v=zEeDmaxegDA,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 287,انا Small,https://i.ytimg.com/vi/FF6PYv05EmA/maxresdefault.jpg,https://www.youtube.com/watch?v=FF6PYv05EmA,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 288,الو الو يا شرطة تعالوا  يا شرطة حرامي  اغاني الاطفال من,https://i.ytimg.com/vi/DARmRCumC3E/maxresdefault.jpg,https://www.youtube.com/watch?v=DARmRCumC3E,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-289,النملة والصرصور,https://i.ytimg.com/vi/hf_QjXRn4Eo/maxresdefault.jpg,https://www.youtube.com/watch?v=hf_QjXRn4Eo,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 290,النظافة من الإيمان,https://i.ytimg.com/vi/wfp5OR9jDng/maxresdefault.jpg,https://www.youtube.com/watch?v=wfp5OR9jDng,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 291,النظافة من الايمان (بدون إيقاع) - طيور بيبي,https://i.ytimg.com/vi/zpEi6qb8wGE/maxresdefault.jpg,https://www.youtube.com/watch?v=zpEi6qb8wGE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 292,النظافة من الايمان - طيور بيبي,https://i.ytimg.com/vi/BlgQSzea-dU/maxresdefault.jpg,https://www.youtube.com/watch?v=BlgQSzea-dU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 293,النضافة حلوة  النظافة الشخصية للأطفال,https://i.ytimg.com/vi/6huQZ-p3HtU/sddefault.jpg,https://www.youtube.com/watch?v=6huQZ-p3HtU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 294,"النحلة ""بدون إيقاع"" - قناة بيبي الفضائية",https://i.ytimg.com/vi/FLJEn8pmPOo/maxresdefault.jpg,https://www.youtube.com/watch?v=FLJEn8pmPOo,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 295,النحلة - طيور بيبي,https://i.ytimg.com/vi/EqaBwnmexKo/maxresdefault.jpg,https://www.youtube.com/watch?v=EqaBwnmexKo,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-296,النحلة,https://i.ytimg.com/vi/N1zNYn96IYU/maxresdefault.jpg,https://www.youtube.com/watch?v=N1zNYn96IYU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 297,الموزة,https://i.ytimg.com/vi/rRejZ3J2E4Y/maxresdefault.jpg,https://www.youtube.com/watch?v=rRejZ3J2E4Y,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 298,الممرضة (بدون إيقاع) - عصومي ووليد  طيور الجنة,https://i.ytimg.com/vi/yRhIqvMd5kE/maxresdefault.jpg,https://www.youtube.com/watch?v=yRhIqvMd5kE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 299,"الليمونة والبرتقالة ""بدون إيقاع"" - طيور بيبي",https://i.ytimg.com/vi/ZgUCuW8aRCY/maxresdefault.jpg,https://www.youtube.com/watch?v=ZgUCuW8aRCY,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 300,الليمونة والبرتقالة - طيور بيبي,https://i.ytimg.com/vi/WwLHY2lv__Q/maxresdefault.jpg,https://www.youtube.com/watch?v=WwLHY2lv__Q,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-301,الليمونة والبرتقالة,https://i.ytimg.com/vi/tw_pvzDkEKo/maxresdefault.jpg,https://www.youtube.com/watch?v=tw_pvzDkEKo,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 302,الليمونة,https://i.ytimg.com/vi/3Lh3EVnu4Yw/maxresdefault.jpg,https://www.youtube.com/watch?v=3Lh3EVnu4Yw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 303,الكرزتين (بدون إيقاع) - طيور بيبي,https://i.ytimg.com/vi/iYED_hr59ek/maxresdefault.jpg,https://www.youtube.com/watch?v=iYED_hr59ek,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 304,الكرزتين,https://i.ytimg.com/vi/OIO5DBpDu8w/maxresdefault.jpg,https://www.youtube.com/watch?v=OIO5DBpDu8w,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 305,الكتكوت صوصو  -  أغنية أصوات الحيوانات  -  قناة طم طم,https://i.ytimg.com/vi/uBo_Bj1hgCs/maxresdefault.jpg,https://www.youtube.com/watch?v=uBo_Bj1hgCs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 306,الكتكوت,https://i.ytimg.com/vi/Q1XJreUetKQ/maxresdefault.jpg,https://www.youtube.com/watch?v=Q1XJreUetKQ,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-307,القنافذ,https://i.ytimg.com/vi/OHWvHHMYGF4/maxresdefault.jpg,https://www.youtube.com/watch?v=OHWvHHMYGF4,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 308,القطة المشمشية حلوة بس شقية,https://i.ytimg.com/vi/-y6gDOgYWDQ/maxresdefault.jpg,https://www.youtube.com/watch?v=-y6gDOgYWDQ,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 309,الفيل الطيوب (بدون إيقاع) - طيور بيبي,https://i.ytimg.com/vi/mG-proytMh8/maxresdefault.jpg,https://www.youtube.com/watch?v=mG-proytMh8,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 310,الفيل الطيوب - طيور بيبي,https://i.ytimg.com/vi/d3FkOkSE1i8/maxresdefault.jpg,https://www.youtube.com/watch?v=d3FkOkSE1i8,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-311,الفيل الطيوب,https://i.ytimg.com/vi/E9ggvIAPmSM/maxresdefault.jpg,https://www.youtube.com/watch?v=E9ggvIAPmSM,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 312,الفواكه,https://i.ytimg.com/vi/N3fHhPUk0U0/maxresdefault.jpg,https://www.youtube.com/watch?v=N3fHhPUk0U0,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 313,الفم (بدون إيقاع) - طيور بيبي,https://i.ytimg.com/vi/0tqZY36dCU8/maxresdefault.jpg,https://www.youtube.com/watch?v=0tqZY36dCU8,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 314,الفطار  اغنية وجبة الافطار للاطفال,https://i.ytimg.com/vi/89h8NkQ9cGY/maxresdefault.jpg,https://www.youtube.com/watch?v=89h8NkQ9cGY,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -331,22 +314,18 @@
 331,الحلو صار يحبي - جنى مقداد  طيور بيبي,https://i.ytimg.com/vi/40KhSq6Kx9o/maxresdefault.jpg,https://www.youtube.com/watch?v=40KhSq6Kx9o,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 332,الحروف العربية من الالف الى الياء - الحروف الهجائية للأطفال,https://i.ytimg.com/vi/axgPbG-s4Tk/maxresdefault.jpg,https://www.youtube.com/watch?v=axgPbG-s4Tk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 333,الحروف العربية  أغاني تعليمية للأطفال بالعربي,https://i.ytimg.com/vi/TR_oInfozK0/maxresdefault.jpg,https://www.youtube.com/watch?v=TR_oInfozK0,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-334,الجزرة,https://i.ytimg.com/vi/gVZicvYfsdI/maxresdefault.jpg,https://www.youtube.com/watch?v=gVZicvYfsdI,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 335,التنابز - طيور بيبي,https://i.ytimg.com/vi/qDptrFTqAVo/maxresdefault.jpg,https://www.youtube.com/watch?v=qDptrFTqAVo,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 336,التمرة,https://i.ytimg.com/vi/xBdEzYhhV48/maxresdefault.jpg,https://www.youtube.com/watch?v=xBdEzYhhV48,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 337,التفاحة,https://i.ytimg.com/vi/BOefmr2LddU/maxresdefault.jpg,https://www.youtube.com/watch?v=BOefmr2LddU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 338,البندورة الحمرا - طيور بيبي,https://i.ytimg.com/vi/ZnSx-k1yk9M/maxresdefault.jpg,https://www.youtube.com/watch?v=ZnSx-k1yk9M,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-339,البندورة الحمرا,https://i.ytimg.com/vi/ZKivFLtMHuU/maxresdefault.jpg,https://www.youtube.com/watch?v=ZKivFLtMHuU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 340,البطاطا,https://i.ytimg.com/vi/pGgIaSbNnBE/maxresdefault.jpg,https://www.youtube.com/watch?v=pGgIaSbNnBE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 341,البرتقالة (بدون ايقاع) - قناة بيبي الفضائية   Channel,https://i.ytimg.com/vi/nZ5ndfXf3y4/maxresdefault.jpg,https://www.youtube.com/watch?v=nZ5ndfXf3y4,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 342,البرتقالة,https://i.ytimg.com/vi/Q4Vn0XdWfQk/maxresdefault.jpg,https://www.youtube.com/watch?v=Q4Vn0XdWfQk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 343,"الببغاء ""بدون إيقاع"" - طيور بيبي",https://i.ytimg.com/vi/urq5A8x73Bc/maxresdefault.jpg,https://www.youtube.com/watch?v=urq5A8x73Bc,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 344,الببغاء - طيور بيبي,https://i.ytimg.com/vi/JsGk11TwWlQ/maxresdefault.jpg,https://www.youtube.com/watch?v=JsGk11TwWlQ,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-345,الببغاء,https://i.ytimg.com/vi/5l_mxkBlCrE/maxresdefault.jpg,https://www.youtube.com/watch?v=5l_mxkBlCrE,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 346,الأصابع,https://i.ytimg.com/vi/1isMv8AxUxI/maxresdefault.jpg,https://www.youtube.com/watch?v=1isMv8AxUxI,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 347,الأشكال - طيور بيبي,https://i.ytimg.com/vi/L_Fu5nZxRvA/maxresdefault.jpg,https://www.youtube.com/watch?v=L_Fu5nZxRvA,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 348,الأسنان (بدون إيقاع) - طيور بيبي,https://i.ytimg.com/vi/AmJR-CNR_vM/maxresdefault.jpg,https://www.youtube.com/watch?v=AmJR-CNR_vM,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-349,الأرنب والسلحفاة,https://i.ytimg.com/vi/hjbLRqG_IJI/maxresdefault.jpg,https://www.youtube.com/watch?v=hjbLRqG_IJI,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 350,الأرنب والثعلب   طيور بيبي,https://i.ytimg.com/vi/8NR5C9qWMDs/maxresdefault.jpg,https://www.youtube.com/watch?v=8NR5C9qWMDs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 351,الأدب - طيور بيبي,https://i.ytimg.com/vi/OtxGXp_upWQ/maxresdefault.jpg,https://www.youtube.com/watch?v=OtxGXp_upWQ,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 352,الاحلام  اغاني اطفال للنوم,https://i.ytimg.com/vi/sDHZczIiBtg/maxresdefault.jpg,https://www.youtube.com/watch?v=sDHZczIiBtg,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -364,7 +343,6 @@
 364,اغنية هالصيصان شو حلوين,https://i.ytimg.com/vi/6yn1cu-53Pw/sddefault.jpg,https://www.youtube.com/watch?v=6yn1cu-53Pw,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 365,اغنية هالصيصان الشطورين + اجمل اغاني الاطفال من,https://i.ytimg.com/vi/MSNGghyahNM/maxresdefault.jpg,https://www.youtube.com/watch?v=MSNGghyahNM,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 366,اغنية ماما زمانها جاية  اغاني اطفال,https://i.ytimg.com/vi/iLYQmdxAaqU/maxresdefault.jpg,https://www.youtube.com/watch?v=iLYQmdxAaqU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-367,اغنية ماما زمانها جاية  اغاني اطفال,https://i.ytimg.com/vi/COZkn9RYYF0/maxresdefault.jpg,https://www.youtube.com/watch?v=COZkn9RYYF0,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 368,اغنية ماما زمانها جاية   Bazona Tv #اغاني اطفال #هالصيصان #ذهب الليل #الالوان,https://i.ytimg.com/vi/KtE5MruVSNs/maxresdefault.jpg,https://www.youtube.com/watch?v=KtE5MruVSNs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 369,اغنية ماما زمانها جاية - اناشيد اطفال - اغاني اطفال,https://i.ytimg.com/vi/7WQ8tNNnj2E/maxresdefault.jpg,https://www.youtube.com/watch?v=7WQ8tNNnj2E,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 370,اغنية ماما زمانها جاية - اغاني اطفال,https://i.ytimg.com/vi/raPyxEnbTic/maxresdefault.jpg,https://www.youtube.com/watch?v=raPyxEnbTic,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -393,7 +371,6 @@
 393,اغنية ذهب الليل طلع الفجر  DanyTv,https://i.ytimg.com/vi/QIO6TFvmE4w/maxresdefault.jpg,https://www.youtube.com/watch?v=QIO6TFvmE4w,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 394,اغنية ذهب الليل طلع الفجر - هالصيصان شو حلوين - الفواكه - الألوان - يا غنماتي,https://i.ytimg.com/vi/85shtQ47vi8/sddefault.jpg,https://www.youtube.com/watch?v=85shtQ47vi8,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 395,اغنية ذهب الليل طلع الفجر - اغاني اطفال,https://i.ytimg.com/vi/Sz7hsilHcKo/maxresdefault.jpg,https://www.youtube.com/watch?v=Sz7hsilHcKo,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-396,اغنية ذهب الليل طلع الفجر,https://i.ytimg.com/vi/yNDivzgsBzs/maxresdefault.jpg,https://www.youtube.com/watch?v=yNDivzgsBzs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 397,اغنية ذهب الليل برسوم جديدة  اغاني اطفال,https://i.ytimg.com/vi/PNRmxGg-sDk/maxresdefault.jpg,https://www.youtube.com/watch?v=PNRmxGg-sDk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 398,اغنية خلف البيت - قناة طم طم للأطفال,https://i.ytimg.com/vi/OqZUe-B_cV8/maxresdefault.jpg,https://www.youtube.com/watch?v=OqZUe-B_cV8,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 399,اغنية جدو علي يوم الجمعة,https://i.ytimg.com/vi/uJyULIzbxdc/sddefault.jpg,https://www.youtube.com/watch?v=uJyULIzbxdc,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
@@ -442,7 +419,6 @@
 442,اغنية البقرة للأطفال  عالم داني,https://i.ytimg.com/vi/t94uSihpsXk/maxresdefault.jpg,https://www.youtube.com/watch?v=t94uSihpsXk,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 443,اغنية البطاطا البطبوطة,https://i.ytimg.com/vi/VVyyVZ0z-OU/maxresdefault.jpg,https://www.youtube.com/watch?v=VVyyVZ0z-OU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 444,اغنية البطات الخمسة five little ducks  #fivelittleducks,https://i.ytimg.com/vi/Kmgc-ot1hnU/sddefault.jpg,https://www.youtube.com/watch?v=Kmgc-ot1hnU,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
-445,اغنية البطات الخمسة,https://i.ytimg.com/vi/UQDrfz5tOWs/sddefault.jpg,https://www.youtube.com/watch?v=UQDrfz5tOWs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 446,اغنية الأشكال واجمل اغاني الاطفال من  DanyTv,https://i.ytimg.com/vi/aKYWwu1Y9cY/maxresdefault.jpg,https://www.youtube.com/watch?v=aKYWwu1Y9cY,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 447,اغنية الأشكال واجمل اغاني الاطفال   DanyTv,https://i.ytimg.com/vi/tdCpUyyxxNs/maxresdefault.jpg,https://www.youtube.com/watch?v=tdCpUyyxxNs,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
 448,اغنية الأشكال + اجمل اغاني الاطفال من  - DanyTv,https://i.ytimg.com/vi/BN_R6zNAbmI/maxresdefault.jpg,https://www.youtube.com/watch?v=BN_R6zNAbmI,2024-10-04 10:02:44.779+00,2024-10-04 10:02:44.779+00
